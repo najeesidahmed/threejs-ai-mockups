@@ -18,7 +18,7 @@ const Home = () => {
                         <img
                         src='./nike-tick.png'
                         alt="logo"
-                        className='w-8 h-8 object-contain '
+                        className='w-12 h-12 object-contain '
                         />
                     </motion.header>
                     <motion.div className='home-content' {...headContainerAnimation}>
