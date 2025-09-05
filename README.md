@@ -46,6 +46,8 @@ Built with **React, Three.js, Valtio, and Express**, this project lets users cus
 git clone https://github.com/yourusername/threejs-ai-mockups.git
 cd threejs-ai-mockups-master
 
+---
+
 ### 2. Install Dependencies
 Fronted:
 cd client
